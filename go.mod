@@ -1,1 +1,1 @@
-module github.com/dianabejan/search-service
+module github.com/bitstored/search-service
